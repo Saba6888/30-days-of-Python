@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def is_prime(n):
     if n <= 1: return False
     for i in range(2, int(n**0.5)+1):
@@ -6,7 +6,6 @@ def is_prime(n):
     return True
 
 print(is_prime(29))  # True
-=======
 #prime number checker
 def is_prime(n):
     if n <= 1: return False
@@ -15,4 +14,4 @@ def is_prime(n):
     return True
 
 print(is_prime(29))  # True
->>>>>>> be34dc2236e0ed1936e830d5d21afa38595729d5
+

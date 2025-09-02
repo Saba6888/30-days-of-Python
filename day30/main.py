@@ -13,4 +13,3 @@ print(f"Output: {output:.4f}")
 
 
 
-Would you like me to bundle these into a GitHub-ready format or add hoverboard/wireless charging themes to some of them? I can also turn this into a visual README with GIFs and banners if you're planning to showcase it.
